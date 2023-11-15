@@ -1,0 +1,128 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.srcQuicklinks {
+  overflow: scroll;
+  height: 125px;
+  width: auto;
+  padding: 1em;
+  color: "[theme:bodyText, default: #323130]";
+  color: var(--bodyText);
+  &.teams {
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  }
+}
+//WEBPART LINKS
+.iconButton {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+}
+
+.iconImage {
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  font-size: 22px;
+  line-height: 22px;
+  flex: 0 0 auto;
+  margin: 0px 12px;
+  align-self: center;
+
+  color: rgb(36, 36, 36);
+}
+
+.iconUrl {
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  font-family: "Fluent MDL2 Hybrid Icons";
+}
+
+//WEBPART LINKS
+
+
+.welcome {
+  text-align: center;
+}
+.welcomeImage {
+  width: 100%;
+  max-width: 420px;
+}
+
+.links {
+  a {
+    text-decoration: none;
+    color: "[theme:link, default:#03787c]";
+    color: var(--link); // note: CSS Custom Properties support is limited to modern browsers only
+
+    &:hover {
+      text-decoration: underline;
+      color: "[theme:linkHovered, default: #014446]";
+      color: var(--linkHovered); // note: CSS Custom Properties support is limited to modern browsers only
+    }
+  }
+}
+
+
+
+//WWW TEEEE
+
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.flex-item {
+  flex: 1;
+}
+
+
+
+//WWW TEEEE
+
+
+
+.r_c_658c9e0a {
+  order: 2;
+  width: 100%;
+}
+
+div {
+  display: block;
+}
+.root-116 {
+  font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(36, 36, 36);
+}
+
+.root-113.root-113.root-113.root-113.root-113 {
+  background-color: rgb(254, 254, 244);
+  color: rgb(36, 36, 36);
+}
+
+.a_a_beed2cf1.c_a_beed2cf1 {
+  -webkit-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
+
+body {
+  -webkit-overflow-scrolling: touch;
+  background-color: #FFFFFF;
+  color: #242424;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 0;
+}

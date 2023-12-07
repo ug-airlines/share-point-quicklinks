@@ -30,8 +30,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
               display: flex;
               flex-wrap: wrap;
               text-align: left;
-              box-sizing: border-box; 
-              border: 1px solid rgb(0, 0, 0);
+              box-sizing: border-box;
               width: auto;
               border-radius:4px;
               outline: 0px;
@@ -176,7 +175,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/qpulse.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://www.example.com/" target="_blank">Q-Pulse Document Management</a></div>
+            <div class="flex-text"><a href="http://20.87.211.30/QPulseWeb/" target="_blank">Q-Pulse Document Management</a></div>
           </div></br>
 
           <div class="flex-container">

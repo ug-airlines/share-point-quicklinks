@@ -38,7 +38,7 @@ gulp bundle
 ```
 Package
 ```bash
-gulp package-solution
+gulp package-solution --production
 ```
 the package command will create a `.sppkg` file that you can upload to sharepoint.  
 Locate the sharepoint admin center to upload the solution file.  

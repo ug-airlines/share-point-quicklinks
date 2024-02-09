@@ -165,22 +165,12 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/oracle.png" alt="Home"></div>
-            <div class="flex-text"><a href="http://20.87.211.30/QPulseWeb/" target="_blank">Oracle Fusion CX Cloud</a></div>
-          </div></br>
-
-          <div class="flex-container">
-            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/oracle.png" alt="Home"></div>
             <div class="flex-text"><a href="https://erp.ugandairlines.com/" target="_blank">Oracle Fusion ERP Cloud </a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/qpulse.png" alt="Home"></div>
-            <div class="flex-text"><a href="http://20.87.211.30/QPulseWeb/" target="_blank">Q-Pulse Document Management</a></div>
-          </div></br>
-
-          <div class="flex-container">
-            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/qpulse.png" alt="Home"></div>
-            <div class="flex-text"><a href="http://20.87.211.30/QPulseWeb/" target="_blank">Qpulse</a></div>
+            <div class="flex-text"><a href="https://qpulse.ugandairlines.com/" target="_blank">Qpulse</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -208,9 +198,23 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             <div class="flex-text"><a href="https://ugandairlines.com/tenders" target="_blank">Tenders</a></div>
           </div></br>
 
+          <div class="flex-container">
+            <div class="flex-text"></div>
+            <div class="flex-text">
+            <a href="https://apps.powerapps.com/play/e/default-131007b6-5c58-488a-adb7-46c906a3d6bc/a/79ddb79e-5ff2-4b42-9b6b-da25a2455393?tenantId=131007b6-5c58-488a-adb7-46c906a3d6bc&hint=cac13082-4ab5-480b-95a6-cc9434e84405&sourcetime=1707293402655" target="_blank">
+              IT Support
+            </a>
+            </div>
+          </div></br>
 
-
-
+          <div class="flex-container">
+          <div class="flex-text"></div>
+          <div class="flex-text">
+          <a href="https://apps.powerapps.com/play/e/default-131007b6-5c58-488a-adb7-46c906a3d6bc/a/d3557158-b9d0-449f-9412-4db6015d4b2a?tenantId=131007b6-5c58-488a-adb7-46c906a3d6bc&hint=ba8e2446-dc6d-4076-8c52-1168e30aa64e&sourcetime=1707291099844" target="_blank">
+            Rebate Request
+          </a>
+          </div>
+          </div></br>
         </div>
 
       </div>`;

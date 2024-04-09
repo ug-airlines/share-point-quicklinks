@@ -41,6 +41,10 @@ Package
 gulp package-solution --production
 ```
 the package command will create a `.sppkg` file that you can upload to sharepoint.  
-Locate the sharepoint admin center to upload the solution file.  
+Locate the sharepoint admin center to upload the solution file under the sharepoint apps.  
+Example url:
+```
+https://{tenant_domain}/sites/appcatalog/_layouts/15/tenantAppCatalog.aspx/manageApps
+```
 Once there head to more features. And locate the apps section.  
 Upload the newly generated `.sppkg` file.

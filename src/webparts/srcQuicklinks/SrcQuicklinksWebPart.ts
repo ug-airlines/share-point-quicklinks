@@ -201,7 +201,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
           <div class="flex-container">
             <div class="flex-text"></div>
             <div class="flex-text">
-            <a href="https:/fta.ugandairlines.com" target="_blank">
+            <a href="https://fta.ugandairlines.com" target="_blank">
               Flight Turn Around
             </a>
             </div>

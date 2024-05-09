@@ -205,8 +205,15 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
               Flight Turn Around
             </a>
             </div>
-          </div></br>
 
+          <div class="flex-container">
+            <div class="flex-text"></div>
+            <div class="flex-text">
+            <a href="https://rosters.ugandairlines.com/CREWPORTAL/" target="_blank">
+              ARMS Crew Web Portal
+            </a>
+            </div>
+          </div></br>
 
         </div>
 

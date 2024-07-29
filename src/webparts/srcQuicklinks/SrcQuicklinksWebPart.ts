@@ -180,17 +180,17 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/sita-logo.gif" alt="Home"></div>
-            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">SITA AIRCOM Cockpit Services</a></div>
+            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">AIRCOM Cockpit Services</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/sita-logo.gif" alt="Home"></div>
-            <div class="flex-text"><a href="https://my.aircraft-sita.aero/ui/cabin/fleet?displayFleetMode=2" target="_blank">SITA MyFleet</a></div>
+            <div class="flex-text"><a href="https://my.aircraft-sita.aero/ui/cabin/fleet?displayFleetMode=2" target="_blank">MyFleet</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/sita-logo.gif" alt="Home"></div>
-            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">SITA AIRCOM Server Solutions</a></div>
+            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">AIRCOM Server Solutions</a></div>
           </div></br>
 
           <div class="flex-container">

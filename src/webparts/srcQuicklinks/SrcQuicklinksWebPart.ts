@@ -69,27 +69,27 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://data-exchange.amadeus.com/sfiler/Tree.action?CSRFToken=fp12dq0kq9h6ospttr8086tmgp" target="_blank">Amadeus Data Exchange Portal</a></div>
+            <div class="flex-text"><a href="https://data-exchange.amadeus.com/sfiler/Tree.action?CSRFToken=fp12dq0kq9h6ospttr8086tmgp" target="_blank">Data Exchange Portal</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="http://172.24.84.117:61080/StandardCraneUser/CraneDesktop/Login.jsp" target="_blank">Amadeus Loyalty Management</a></div>
+            <div class="flex-text"><a href="http://172.24.84.117:61080/StandardCraneUser/CraneDesktop/Login.jsp" target="_blank">Loyalty Management</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://pdt.accounts.amadeus.com/LoginService/authorizeAngular?service=ARD_UR&client_id=1ASIXARD&LANGUAGE=GB&redirect_uri=https://uat3.resdesktop.altea.amadeus.com/app_ard/apf/init/login?SITE%3DAURBAURB%26LANGUAGE%3DGB%26MARKETS%3DARDW_PDT_WBP%26ACTION%3DclpLogin" target="_blank">Amadeus Reservation Desktop</a></div>
+            <div class="flex-text"><a href="https://pdt.accounts.amadeus.com/LoginService/authorizeAngular?service=ARD_UR&client_id=1ASIXARD&LANGUAGE=GB&redirect_uri=https://uat3.resdesktop.altea.amadeus.com/app_ard/apf/init/login?SITE%3DAURBAURB%26LANGUAGE%3DGB%26MARKETS%3DARDW_PDT_WBP%26ACTION%3DclpLogin" target="_blank">Reservation Desktop</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://revenue-integrity.app.amadeus.com/home" target="_blank">Amadeus Revenue Integrity</a></div>
+            <div class="flex-text"><a href="https://revenue-integrity.app.amadeus.com/home" target="_blank">Revenue Integrity</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://servicehub.amadeus.com/" target="_blank">Amadeus Service Hub</a></div>
+            <div class="flex-text"><a href="https://servicehub.amadeus.com/" target="_blank">Service Hub</a></div>
           </div></br>
 
           <div class="flex-container">

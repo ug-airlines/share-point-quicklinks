@@ -69,27 +69,27 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://data-exchange.amadeus.com/sfiler/Tree.action?CSRFToken=fp12dq0kq9h6ospttr8086tmgp" target="_blank">Amadeus Data Exchange Portal</a></div>
+            <div class="flex-text"><a href="https://data-exchange.amadeus.com/sfiler/Tree.action?CSRFToken=fp12dq0kq9h6ospttr8086tmgp" target="_blank">Data Exchange Portal</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="http://172.24.84.117:61080/StandardCraneUser/CraneDesktop/Login.jsp" target="_blank">Amadeus Loyalty Management</a></div>
+            <div class="flex-text"><a href="http://172.24.84.117:61080/StandardCraneUser/CraneDesktop/Login.jsp" target="_blank">Loyalty Management</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://pdt.accounts.amadeus.com/LoginService/authorizeAngular?service=ARD_UR&client_id=1ASIXARD&LANGUAGE=GB&redirect_uri=https://uat3.resdesktop.altea.amadeus.com/app_ard/apf/init/login?SITE%3DAURBAURB%26LANGUAGE%3DGB%26MARKETS%3DARDW_PDT_WBP%26ACTION%3DclpLogin" target="_blank">Amadeus Reservation Desktop</a></div>
+            <div class="flex-text"><a href="https://pdt.accounts.amadeus.com/LoginService/authorizeAngular?service=ARD_UR&client_id=1ASIXARD&LANGUAGE=GB&redirect_uri=https://uat3.resdesktop.altea.amadeus.com/app_ard/apf/init/login?SITE%3DAURBAURB%26LANGUAGE%3DGB%26MARKETS%3DARDW_PDT_WBP%26ACTION%3DclpLogin" target="_blank">Reservation Desktop</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://revenue-integrity.app.amadeus.com/home" target="_blank">Amadeus Revenue Integrity</a></div>
+            <div class="flex-text"><a href="https://revenue-integrity.app.amadeus.com/home" target="_blank">Revenue Integrity</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://servicehub.amadeus.com/" target="_blank">Amadeus Service Hub</a></div>
+            <div class="flex-text"><a href="https://servicehub.amadeus.com/" target="_blank">Service Hub</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -99,7 +99,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/radar-24.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://www.flightradar24.com/" target="_blank">Flight Radar 24 - Business plan</a></div>
+            <div class="flex-text"><a href="https://www.flightradar24.com/" target="_blank">Flight Radar 24</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -109,17 +109,17 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/fly-smart-logo-2.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Flysmart+ AODB Database</a></div>
+            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">AODB Database</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/fly-smart-logo-2.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Flysmart+ EFB Performance load manangement </a></div>
+            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">EFB Performance load</a></div>
           </div></br>
 
           <div class="flex-container"> 
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/fly-smart-logo-2.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Flysmart+ Gateway Management Service</a></div>
+            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Gateway Management Service</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -129,7 +129,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/bombardier.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://mhirj-prd-portal-28f3ikqw.workzone.cfapps.us10.hana.ondemand.com/site#Shell-home?sap-app-origin-hint=" target="_blank">iFly Bombardier/ Interactive Electronic Technical Publications (IETP)</a></div>
+            <div class="flex-text"><a href="https://mhirj-prd-portal-28f3ikqw.workzone.cfapps.us10.hana.ondemand.com/site#Shell-home?sap-app-origin-hint=" target="_blank">iFly Bombardier (IETP)</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -180,17 +180,17 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/sita-logo.gif" alt="Home"></div>
-            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">SITA AIRCOM Cockpit Services</a></div>
+            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">AIRCOM Cockpit Services</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/sita-logo.gif" alt="Home"></div>
-            <div class="flex-text"><a href="https://my.aircraft-sita.aero/ui/cabin/fleet?displayFleetMode=2" target="_blank">SITA MyFleet</a></div>
+            <div class="flex-text"><a href="https://my.aircraft-sita.aero/ui/cabin/fleet?displayFleetMode=2" target="_blank">MyFleet</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/sita-logo.gif" alt="Home"></div>
-            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">SITA AIRCOM Server Solutions</a></div>
+            <div class="flex-text"><a href="https://europe.dw.aticloud.aero/vpn/index.html" target="_blank">AIRCOM Server Solutions</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -199,7 +199,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
           </div></br>
 
           <div class="flex-container">
-            <div class="flex-text"></div>
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/recurrent_16975395.png" alt="FTA"></div>
             <div class="flex-text">
               <a href="https://fta.ugandairlines.com" target="_blank">
                 Flight Turn Around
@@ -207,9 +207,8 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             </div>
           </div></br>
 
-
           <div class="flex-container">
-            <div class="flex-text"></div>
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/clock_7382907.png" alt="FTA"></div>
             <div class="flex-text">
               <a href="https://rosters.ugandairlines.com/CREWPORTAL/" target="_blank">
                 ARMS Crew Web Portal
@@ -217,6 +216,14 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             </div>
           </div></br>
 
+          <div class="flex-container">
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/airplane_3127404.png" alt="FTA"></div>
+            <div class="flex-text">
+              <a href="https://rebates.ugandairlines.com" target="_blank">
+                Rebate Tickets
+              </a>
+            </div>
+          </div></br>
 
         </div>
 

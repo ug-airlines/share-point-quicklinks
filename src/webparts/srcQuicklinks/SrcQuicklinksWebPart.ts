@@ -199,7 +199,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
           </div></br>
 
           <div class="flex-container">
-            <div class="flex-text"></div>
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/recurrent_16975395.png" alt="FTA"></div>
             <div class="flex-text">
               <a href="https://fta.ugandairlines.com" target="_blank">
                 Flight Turn Around
@@ -207,9 +207,8 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             </div>
           </div></br>
 
-
           <div class="flex-container">
-            <div class="flex-text"></div>
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/clock_7382907.png" alt="FTA"></div>
             <div class="flex-text">
               <a href="https://rosters.ugandairlines.com/CREWPORTAL/" target="_blank">
                 ARMS Crew Web Portal
@@ -217,6 +216,14 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             </div>
           </div></br>
 
+          <div class="flex-container">
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/airplane_3127404.png" alt="FTA"></div>
+            <div class="flex-text">
+              <a href="https://rebates.ugandairlines.com" target="_blank">
+                Rebate Tickets
+              </a>
+            </div>
+          </div></br>
 
         </div>
 

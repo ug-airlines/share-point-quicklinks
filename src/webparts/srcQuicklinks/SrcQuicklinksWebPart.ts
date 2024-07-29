@@ -99,7 +99,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/radar-24.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://www.flightradar24.com/" target="_blank">Flight Radar 24 - Business plan</a></div>
+            <div class="flex-text"><a href="https://www.flightradar24.com/" target="_blank">Flight Radar 24</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -109,17 +109,17 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/fly-smart-logo-2.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Flysmart+ AODB Database</a></div>
+            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">AODB Database</a></div>
           </div></br>
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/fly-smart-logo-2.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Flysmart+ EFB Performance load manangement </a></div>
+            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">EFB Performance load</a></div>
           </div></br>
 
           <div class="flex-container"> 
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/fly-smart-logo-2.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Flysmart+ Gateway Management Service</a></div>
+            <div class="flex-text"><a href="https://192.168.1.18:8443/fsa-gateway/" target="_blank">Gateway Management Service</a></div>
           </div></br>
 
           <div class="flex-container">
@@ -129,7 +129,7 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
 
           <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/bombardier.png" alt="Home"></div>
-            <div class="flex-text"><a href="https://mhirj-prd-portal-28f3ikqw.workzone.cfapps.us10.hana.ondemand.com/site#Shell-home?sap-app-origin-hint=" target="_blank">iFly Bombardier/ Interactive Electronic Technical Publications (IETP)</a></div>
+            <div class="flex-text"><a href="https://mhirj-prd-portal-28f3ikqw.workzone.cfapps.us10.hana.ondemand.com/site#Shell-home?sap-app-origin-hint=" target="_blank">iFly Bombardier (IETP)</a></div>
           </div></br>
 
           <div class="flex-container">

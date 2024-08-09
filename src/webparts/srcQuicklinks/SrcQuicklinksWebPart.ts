@@ -93,6 +93,15 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
           </div></br>
 
           <div class="flex-container">
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="FTA"></div>
+            <div class="flex-text">
+              <a href="https://airline-insight.saas.amadeus.com/lss/hub" target="_blank">
+                Business Analytics Center
+              </a>
+            </div>
+          </div></br>
+
+          <div class="flex-container">
             <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/dpo-bird-logo.jpeg" alt="Home"></div>
             <div class="flex-text"><a href="https://portal.dpopay.com/system/loginpage.asp?loginpage=provider" target="_blank">DPO Direct Pay</a></div>
           </div></br>
@@ -221,15 +230,6 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             <div class="flex-text">
               <a href="https://rebates.ugandairlines.com" target="_blank">
                 Rebate Tickets
-              </a>
-            </div>
-          </div></br>
-
-          <div class="flex-container">
-            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="FTA"></div>
-            <div class="flex-text">
-              <a href="https://airline-insight.saas.amadeus.com/lss/hub" target="_blank">
-                Business Analytics Center
               </a>
             </div>
           </div></br>

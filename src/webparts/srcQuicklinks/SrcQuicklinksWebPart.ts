@@ -225,6 +225,15 @@ export default class SrcQuicklinksWebPart extends BaseClientSideWebPart<ISrcQuic
             </div>
           </div></br>
 
+          <div class="flex-container">
+            <div class="flex-text"><img style="width: 22px; height: 22px;"src="https://ugandairlinesug.sharepoint.com/BusinessAppLogos/Amadeus_Logo.png" alt="FTA"></div>
+            <div class="flex-text">
+              <a href="https://airline-insight.saas.amadeus.com/lss/hub" target="_blank">
+                Business Analytics Center
+              </a>
+            </div>
+          </div></br>
+
         </div>
 
       </div>`;
